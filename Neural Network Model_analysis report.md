@@ -35,7 +35,7 @@
  ***second hiden layer***:
 * units=30
 * activation='relu'
- ***output layer***:
+***output layer***:
 * units=1
 * activation ='sigmoid'
 
